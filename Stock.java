@@ -1,3 +1,3 @@
 class Stock{
-	private HashMap<String,String> Orders = new HashMap()<>;
+	private HashMap<String,String> buyOrders = new HashMap()<>;
 }
